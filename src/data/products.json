@@ -1,0 +1,120 @@
+[
+   {
+      "id": "311de8ed-15e2-4c3b-bd54-165d7dc42820",
+      "title": "Multiproposito",
+      "funcion": "Separador y Compresion",
+      "peso": 0,
+      "modelo": "CT4150C",
+      "description": "Corta, Aplasta, Expande, \r\nMáxima Fuerza de Separación = 21,5 Toneladas\r\nMáxima Fuerza de Apriete = 8,9 Toneladas\r\nMáxima Fuerza de Tracción = 10,6 Toneladas\r\nMáxima Fuerza de Corte = 38,7 Toneladas",
+      "image": "1698256300677_products_.jpg",
+      "images": [
+         "1698256300681_products_.jpg",
+         "1698256300706_products_.jpg",
+         "1698256300711_products_.jpg"
+      ],
+      "createAt": "2023-10-25T17:51:40.765Z"
+   },
+   {
+      "id": "3045df8a-d721-4233-a43d-6c62d6b7d7af",
+      "title": "Cizalla",
+      "funcion": "Corte",
+      "peso": 0,
+      "modelo": "CU4050C",
+      "description": "Presión: 720 bares, Máxima Fuerza de Corte : 95 Toneladas, Total de Apertura : 181 milímetros / 18 centímetros",
+      "image": "1698257443685_products_.jpg",
+      "images": [
+         "1698257443690_products_.jpg",
+         "1698257443727_products_.jpg",
+         "1698257443729_products_.jpg"
+      ],
+      "createAt": "2023-10-25T18:10:43.788Z"
+   },
+   {
+      "id": "3e7f2d09-f2e3-4fa0-99f5-e9c865a4f179",
+      "title": "Expansor",
+      "funcion": "Separador y Compresion",
+      "peso": 0,
+      "modelo": "SP4240C",
+      "description": "Máxima Fuerza de Separación: 16 Toneladas, Máxima Fuerza de Aplastamiento : 6,4 Toneladas, Máxima Fuerza de Tracción: 8,5 Toneladas",
+      "image": "1698257823890_products_.jpg",
+      "images": [
+         "1698257823894_products_.jpg",
+         "1698257823899_products_.jpg",
+         "1698257823901_products_.jpg"
+      ],
+      "createAt": "2023-10-25T18:17:04.011Z"
+   },
+   {
+      "id": "819c23a7-0789-47cd-805a-e158146ee6eb",
+      "title": "Cuña",
+      "funcion": "Separador",
+      "peso": 0,
+      "modelo": "PW5624",
+      "description": "Presión : 720 bares, Máxima Fuerza de Separación : 24 Toneladas, Mínimo espacio de entrada: 6 milímetros, Máxima Fuerza de Elevación: 51 milímetros / 5 centímetros",
+      "image": "1698258336023_products_.jpg",
+      "images": [
+         "1698258336025_products_.jpg",
+         "1698258336050_products_.jpg",
+         "1698258336051_products_.jpg"
+      ],
+      "createAt": "2023-10-25T18:25:36.122Z"
+   },
+   {
+      "id": "75ee472d-423f-4260-8c63-cc8af876c3ab",
+      "title": "Corta Pedales",
+      "funcion": "Corte",
+      "peso": 0,
+      "modelo": "40066C",
+      "description": "Presión : 720 bares, Máxima Separación: 16,5 Toneladas, Recorrido de Separación: 250 milímetros / 25 centímetros.",
+      "image": "1698258868313_products_.jpg",
+      "images": [
+         "1698258868315_products_.jpg",
+         "1698258868316_products_.jpg"
+      ],
+      "createAt": "2023-10-25T18:34:28.341Z"
+   },
+   {
+      "id": "d57a53a5-4912-4f3b-ab1c-353df0a9038f",
+      "title": "Expansores",
+      "funcion": "Separador",
+      "peso": 0,
+      "modelo": "RA4321C",
+      "description": "Presión : 720 bares, Máxima Separación : 16,5 Toneladas, Recorrido de Separación : 250 milímetros / 25 centímetros",
+      "image": "1698259315402_products_.webp",
+      "images": [
+         "1698259315405_products_.webp",
+         "1698259315407_products_.webp",
+         "1698259315408_products_.jpg"
+      ],
+      "createAt": "2023-10-25T18:41:55.481Z"
+   },
+   {
+      "id": "cbcb6b2b-83e7-4d06-b649-cdf562b417b6",
+      "title": "Expansor RAM/POWER",
+      "funcion": "Separador",
+      "peso": 0,
+      "modelo": "XR4360C",
+      "description": "Presión 720 bares, Fuerza de Separación 10,2 Toneladas, Máxima Expansión Mecánica: 30 centímetros, Máxima Expansión Hidráulica : 35 centímetro. Recorrido Total : 65 Centímetros, Longitud Minima: 62 centimetros, Longitud Maxima : 127,5 Centimetros.",
+      "image": "1698259929846_products_.webp",
+      "images": [
+         "1698259929864_products_.jpg",
+         "1698259929865_products_.jpg",
+         "1698259929926_products_.jpg"
+      ],
+      "createAt": "2023-10-25T18:52:09.956Z"
+   },
+   {
+      "id": "d94744da-64c4-4b75-95d0-7e29d55915c3",
+      "title": "Expansor Telescópico",
+      "funcion": "Separador",
+      "peso": 0,
+      "modelo": "TR3340C",
+      "description": "Presión : 720 bares, Mínimo Cerrado : 30,5 Centímetros, Máximo Abierto :  58,4 Centímetros, Máximo recorrido : 27,9 Centímetros. Fuerza : 8,3 toneladas",
+      "image": "1698260353379_products_.jpg",
+      "images": [
+         "1698260353381_products_.jpg",
+         "1698260353382_products_.jpg"
+      ],
+      "createAt": "2023-10-25T18:59:13.465Z"
+   }
+]

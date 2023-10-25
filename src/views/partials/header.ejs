@@ -1,0 +1,30 @@
+<header class="home__header">
+        
+    <div class="home__header--box-logo">
+        <img class="home__header--logo rotate-vert-center"src="/img/Logopng.png" alt="logo">
+        
+    </div>
+   
+    <a href="" class="home__header--bars"><i class="fa fa-bars fa-lg"></i></a>
+    
+    <nav class="home__header__nav--menu">
+        <ul>
+            <li><a href="/">home</a></li>
+            <li><a href="#">quienes</a></li>
+            <li><a href="#">servicios</a></li>
+            
+            <% if (locals.userLogin) { %>
+                <% if (userLogin.role === "admin") { %>
+                 <li><a href="/admin">Admin</a></li>
+                <% } %>
+                
+                <li><a href="/users/profile">Hola <%= userLogin.name %>!</a></li>
+                <li><a href="/users/logout">Salir</a></li>
+            <% }else{ %>
+            <li><a href="/users/register">Registro</a></li>
+            <li><a href="/users/login">Ingresa</a></li>
+            <% } %>
+        </ul>
+
+    </nav>
+</header>
